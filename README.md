@@ -32,12 +32,8 @@
 <a href="mailto:mohamedmohareb001@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/
-mohamed-mohareb-48357638b
-" target="_blank">
-  <img src="www.linkedin.com/in/
-mohamed-mohareb-48357638b
-"style=flat&logo=linkedin&logoColor="white"/>
+<a href="https://www.linkedin.com/in/mohamed-mohareb-48357638b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -78,7 +74,8 @@ I'm **Mohamed Rabie Mohareb**, a passionate **Front-End Developer** focused on b
 
 - 🌍 Portfolio: [https://mohamedmoharebportfolio.netlify.app](https://mohamedmoharebportfolio.netlify.app)  
 - 📧 Email: **mohamedmohareb001@gmail.com**  
-- 🌐 GitHub: [https://github.com/mohamed-mohareb](https://github.com/mohamed-mohareb)
+- 🌐 GitHub: [https://github.com/mohamed-mohareb](https://github.com/mohamed-mohareb)  
+- LinkedIn: [https://www.linkedin.com/in/mohamed-mohareb-48357638b](https://www.linkedin.com/in/mohamed-mohareb-48357638b)
 
 ---
 
