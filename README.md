@@ -67,14 +67,6 @@ I'm **Mohamed Mohareb**, a passionate **Front-End Developer** focused on buildin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmohareb2i6t4-ux&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohareb2i6t4-ux&layout=compact&theme=dark)
-
-</div>
 
 ---
 
