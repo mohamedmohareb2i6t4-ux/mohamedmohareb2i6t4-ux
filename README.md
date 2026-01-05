@@ -3,16 +3,21 @@
 <h1>I'm Mohamed Mohareb</h1>
 <h3>Front-End Developer | Modern Web Interfaces</h3>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="I'm Mohamed Mohareb"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedmohareb2i6t4-ux&style=flat&color=orange)
+
+---
 
 ## 🌐 Connect with Me
 
-<a href="https://github.com/mohamed-mohareb" target="_blank">
+<a href="https://github.com/mohamedmohareb2i6t4-ux" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61581631345114&ref=pl_edit_ig_profile_ac" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61581631345114" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F%40mohamed469336" target="_blank">
+<a href="https://www.threads.com/@mohamed469336" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/mohamed469336" target="_blank">
@@ -37,7 +42,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohamed Rabie Mohareb**, a passionate **Front-End Developer** focused on building modern, responsive, and user-friendly web interfaces.
+I'm **Mohamed Mohareb**, a passionate **Front-End Developer** focused on building modern, responsive, and user-friendly web interfaces.
 
 - ⚡ Strong foundation in **HTML, CSS, and JavaScript**  
 - 🧠 Experienced with **C++ and Python**  
@@ -69,8 +74,8 @@ I'm **Mohamed Rabie Mohareb**, a passionate **Front-End Developer** focused on b
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-mohareb&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mohareb&layout=compact&theme=dark)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmohareb2i6t4-ux&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohareb2i6t4-ux&layout=compact&theme=dark)
 
 </div>
 
@@ -80,7 +85,7 @@ I'm **Mohamed Rabie Mohareb**, a passionate **Front-End Developer** focused on b
 
 - 🌍 Portfolio: [https://mohamedmoharebportfolio.netlify.app](https://mohamedmoharebportfolio.netlify.app)  
 - 📧 Email: **mohamedmohareb001@gmail.com**  
-- 🌐 GitHub: [https://github.com/mohamed-mohareb](https://github.com/mohamed-mohareb)  
+- 🌐 GitHub: [https://github.com/mohamedmohareb2i6t4-ux](https://github.com/mohamedmohareb2i6t4-ux)  
 - LinkedIn: [https://www.linkedin.com/in/mohamed-mohareb-48357638b](https://www.linkedin.com/in/mohamed-mohareb-48357638b)
 
 ---
