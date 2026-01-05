@@ -1,11 +1,8 @@
 <div align="center">
 
-<h1>I'm Mohamed Mohareb</h1>
+<h1> Mohamed Mohareb</h1>
 <h3>Front-End Developer | Modern Web Interfaces</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="I'm Mohamed Mohareb"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedmohareb2i6t4-ux&style=flat&color=orange)
 
 ---
 
