@@ -35,7 +35,9 @@
 <a href="www.linkedin.com/in/
 mohamed-mohareb-48357638b
 " target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="www.linkedin.com/in/
+mohamed-mohareb-48357638b
+"style=flat&logo=linkedin&logoColor="white"/>
 </a>
 
 </div>
