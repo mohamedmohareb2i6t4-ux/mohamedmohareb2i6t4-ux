@@ -3,11 +3,6 @@
 <h1>I'm Mohamed Mohareb</h1>
 <h3>Front-End Developer | Modern Web Interfaces</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="I'm Mohamed Mohareb"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamed-mohareb&style=flat&color=orange)
-
----
 
 ## 🌐 Connect with Me
 
