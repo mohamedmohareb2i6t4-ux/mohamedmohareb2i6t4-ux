@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Mohamed Mohareb</h1>
+<h1>I'm Mohamed Mohareb</h1>
 <h3>Front-End Developer | Modern Web Interfaces</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="I'm Mohamed Mohareb"/>
@@ -70,13 +70,8 @@ I'm **Mohamed Rabie Mohareb**, a passionate **Front-End Developer** focused on b
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- 🌍 Portfolio: [https://mohamedmoharebportfolio.netlify.app](https://mohamedmoharebportfolio.netlify.app)  
-- 📧 Email: **mohamedmohareb001@gmail.com**  
-- 🌐 GitHub: [https://github.com/mohamed-mohareb](https://github.com/mohamed-mohareb)  
-- LinkedIn: [https://www.linkedin.com/in/mohamed-mohareb-48357638b](https://www.linkedin.com/in/mohamed-mohareb-48357638b)
+<div align="center">
 
----
-
-⭐ *Feel free to explore my repositories and star the ones you like.*
+[![Mohamed's GitHub St]()]()
